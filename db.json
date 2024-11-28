@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Trung",
+      "mssv": "PH55226"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "mssv": "PH55226"
+    },
+    {
+      "name": "Duy",
+      "mssv": "PH112233",
+      "id": 3
+    },
+    {
+      "name": "ád",
+      "mssv": "ád",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "year": "1997",
+      "cover": "https://covers.openlibrary.org/b/olid/OL7440033M-M.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sách thay đổi",
+      "author": "Tác giả thay đổi",
+      "year": "299",
+      "cover": "Ảnh đã thay đổi"
+    }
+  ]
+}
